@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/videos"/>
+    <qresource prefix="/">
+        <file>play.qml</file>
+        <file>home.qml</file>
+        <file>options.qml</file>
+        <file>liftLearn.qml</file>
+        <file>Products.qml</file>
+        <file>ProductInfo.qml</file>
+        <file>categories.qml</file>
+        <file>category1.qml</file>
+        <file>category2.qml</file>
+        <file>category3.qml</file>
+        <file>category4.qml</file>
+        <file>category5.qml</file>
+        <file>category6.qml</file>
+        <file>category7.qml</file>
+    </qresource>
+</RCC>
